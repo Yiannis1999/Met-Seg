@@ -125,11 +125,11 @@ loss = MultiLoss(losses=loss)
 
 config = {
     "name": "hrnet3d_tversky",
-    "epochs": 800,
+    "epochs": 50,
     "iterative": False,
     "images_pr_iteration": 1,
     "val_images_pr_iteration": 1,
-    "batch_size": 2,
+    "batch_size": 1,
     "learning_rate": 5e-3,
     "optimizer": "AdamW",
     "lr_scheduler": "CosineAnnealingLR",
