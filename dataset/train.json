@@ -9,7 +9,7 @@
     ],
     "entries": [
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_185/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_185/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -21,7 +21,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -34,7 +34,7 @@
                     "std": "871.8591333753994"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -47,7 +47,7 @@
                     "std": "387.7244033729113"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -60,7 +60,7 @@
                     "std": "175.64646610207762"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_185/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_101/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_101/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -87,7 +87,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -100,7 +100,7 @@
                     "std": "354.58357506098656"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -113,7 +113,7 @@
                     "std": "176.82344245967263"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -126,7 +126,7 @@
                     "std": "76.47647103980614"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_101/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_039/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_039/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -153,7 +153,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -166,7 +166,7 @@
                     "std": "384.77797147248145"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -179,7 +179,7 @@
                     "std": "163.04682655364516"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -192,7 +192,7 @@
                     "std": "86.92682127666622"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_039/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -207,7 +207,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_028/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_028/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -219,7 +219,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -232,7 +232,7 @@
                     "std": "300.2221966769963"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -245,7 +245,7 @@
                     "std": "202.35292468634773"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -258,7 +258,7 @@
                     "std": "94.62985987047347"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_028/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_313/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_313/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -285,7 +285,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -298,7 +298,7 @@
                     "std": "791.1351104080851"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -311,7 +311,7 @@
                     "std": "308.40376072277786"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -324,7 +324,7 @@
                     "std": "174.6038126279476"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_313/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -339,7 +339,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_167/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_167/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -351,7 +351,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -364,7 +364,7 @@
                     "std": "577.6691417417424"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -377,7 +377,7 @@
                     "std": "304.0507953733717"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -390,7 +390,7 @@
                     "std": "199.21964890151887"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_167/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -405,7 +405,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_010/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_010/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -417,7 +417,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -430,7 +430,7 @@
                     "std": "646.9176953596367"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -443,7 +443,7 @@
                     "std": "368.7828152653057"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -456,7 +456,7 @@
                     "std": "165.1884646272323"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_010/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -471,7 +471,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_237/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_237/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -483,7 +483,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -496,7 +496,7 @@
                     "std": "714.3379072519716"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -509,7 +509,7 @@
                     "std": "367.84565432287775"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -522,7 +522,7 @@
                     "std": "146.0620755041066"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_237/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -537,7 +537,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_244/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_244/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -549,7 +549,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -562,7 +562,7 @@
                     "std": "891.422266678064"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -575,7 +575,7 @@
                     "std": "316.04435725751813"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -588,7 +588,7 @@
                     "std": "185.04298284047428"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_244/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -603,7 +603,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_266/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_266/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -615,7 +615,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -628,7 +628,7 @@
                     "std": "799.9209628797936"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -641,7 +641,7 @@
                     "std": "386.0560951489422"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -654,7 +654,7 @@
                     "std": "151.2217652750148"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_266/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -669,7 +669,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_256/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_256/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -681,7 +681,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -694,7 +694,7 @@
                     "std": "518.7806510705152"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -707,7 +707,7 @@
                     "std": "251.1692453957022"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -720,7 +720,7 @@
                     "std": "145.30643076526138"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_256/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -735,7 +735,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_271/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_271/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -747,7 +747,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -760,7 +760,7 @@
                     "std": "734.3756654552403"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -773,7 +773,7 @@
                     "std": "482.89199436176375"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -786,7 +786,7 @@
                     "std": "134.17390507791148"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_271/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -801,7 +801,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_030/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_030/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -813,7 +813,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -826,7 +826,7 @@
                     "std": "884.0686962212682"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -839,7 +839,7 @@
                     "std": "645.5033503577591"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -852,7 +852,7 @@
                     "std": "222.10387522396957"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_030/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -867,7 +867,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_100/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_100/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -879,7 +879,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -892,7 +892,7 @@
                     "std": "703.9346978814636"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -905,7 +905,7 @@
                     "std": "229.41206003208862"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -918,7 +918,7 @@
                     "std": "129.8621523357423"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_100/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -933,7 +933,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_213/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_213/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -945,7 +945,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -958,7 +958,7 @@
                     "std": "761.0392839977239"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -971,7 +971,7 @@
                     "std": "261.41148273019735"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -984,7 +984,7 @@
                     "std": "142.36415208579987"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_213/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -999,7 +999,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_189/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_189/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1011,7 +1011,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1024,7 +1024,7 @@
                     "std": "795.2702529857129"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1037,7 +1037,7 @@
                     "std": "370.56818937106084"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1050,7 +1050,7 @@
                     "std": "153.82239084186648"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_189/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1065,7 +1065,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_134/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_134/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1077,7 +1077,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1090,7 +1090,7 @@
                     "std": "563.8128719199194"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1103,7 +1103,7 @@
                     "std": "190.72772908980835"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1116,7 +1116,7 @@
                     "std": "157.57353865339917"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_134/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1131,7 +1131,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_151/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_151/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1143,7 +1143,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1156,7 +1156,7 @@
                     "std": "676.8719247712813"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1169,7 +1169,7 @@
                     "std": "212.36649575257863"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1182,7 +1182,7 @@
                     "std": "152.85318434320223"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_151/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1197,7 +1197,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_088/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_088/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1209,7 +1209,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1222,7 +1222,7 @@
                     "std": "534.8722963130513"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1235,7 +1235,7 @@
                     "std": "380.71704903527177"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1248,7 +1248,7 @@
                     "std": "167.97250393572457"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_088/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1263,7 +1263,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_069/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_069/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1275,7 +1275,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1288,7 +1288,7 @@
                     "std": "642.5183541070861"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1301,7 +1301,7 @@
                     "std": "357.8571250524484"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1314,7 +1314,7 @@
                     "std": "153.40714449169118"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_069/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1329,7 +1329,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_225/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_225/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1341,7 +1341,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1354,7 +1354,7 @@
                     "std": "736.8155790391744"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1367,7 +1367,7 @@
                     "std": "256.69985139761656"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1380,7 +1380,7 @@
                     "std": "172.8096014808944"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_225/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1395,7 +1395,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_171/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_171/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1407,7 +1407,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1420,7 +1420,7 @@
                     "std": "804.5151383736796"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1433,7 +1433,7 @@
                     "std": "227.41958101784763"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1446,7 +1446,7 @@
                     "std": "150.2477341424477"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_171/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1461,7 +1461,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_235/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_235/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1473,7 +1473,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1486,7 +1486,7 @@
                     "std": "922.8108437377214"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1499,7 +1499,7 @@
                     "std": "463.46264177213317"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1512,7 +1512,7 @@
                     "std": "138.66273684633435"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_235/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1527,7 +1527,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_059/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_059/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1539,7 +1539,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1552,7 +1552,7 @@
                     "std": "835.3649197551778"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1565,7 +1565,7 @@
                     "std": "233.8229818452691"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1578,7 +1578,7 @@
                     "std": "155.9353323452163"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_059/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1593,7 +1593,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_170/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_170/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1605,7 +1605,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1618,7 +1618,7 @@
                     "std": "755.1301230911906"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1631,7 +1631,7 @@
                     "std": "328.19351434850824"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1644,7 +1644,7 @@
                     "std": "126.86521437501553"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_170/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1659,7 +1659,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_026/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_026/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1671,7 +1671,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1684,7 +1684,7 @@
                     "std": "725.2760120160758"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1697,7 +1697,7 @@
                     "std": "354.2726531904896"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1710,7 +1710,7 @@
                     "std": "155.50466379974978"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_026/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1725,7 +1725,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_051/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_051/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1737,7 +1737,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1750,7 +1750,7 @@
                     "std": "669.8188840495648"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1763,7 +1763,7 @@
                     "std": "365.71876430263717"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1776,7 +1776,7 @@
                     "std": "143.59732213242555"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_051/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1791,7 +1791,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_181/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_181/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1803,7 +1803,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1816,7 +1816,7 @@
                     "std": "246.68779798501623"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1829,7 +1829,7 @@
                     "std": "135.75070873931386"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1842,7 +1842,7 @@
                     "std": "63.890135275763534"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_181/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1857,7 +1857,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_074/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_074/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1869,7 +1869,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1882,7 +1882,7 @@
                     "std": "713.5061411497089"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1895,7 +1895,7 @@
                     "std": "246.1790484775137"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1908,7 +1908,7 @@
                     "std": "173.01858577610687"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_074/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1923,7 +1923,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_273/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_273/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -1935,7 +1935,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -1948,7 +1948,7 @@
                     "std": "254.93364028553592"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -1961,7 +1961,7 @@
                     "std": "187.64259335839628"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -1974,7 +1974,7 @@
                     "std": "81.09325434526741"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_273/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -1989,7 +1989,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_094/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_094/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2001,7 +2001,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2014,7 +2014,7 @@
                     "std": "605.7265125768096"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2027,7 +2027,7 @@
                     "std": "434.21312326323323"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2040,7 +2040,7 @@
                     "std": "194.2019154879058"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_094/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2055,7 +2055,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_107/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_107/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2067,7 +2067,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2080,7 +2080,7 @@
                     "std": "745.2634508250841"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2093,7 +2093,7 @@
                     "std": "357.5611127665024"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2106,7 +2106,7 @@
                     "std": "152.6909793948134"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_107/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2121,7 +2121,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_249/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_249/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2133,7 +2133,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2146,7 +2146,7 @@
                     "std": "809.0884392156706"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2159,7 +2159,7 @@
                     "std": "246.916242352028"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2172,7 +2172,7 @@
                     "std": "171.7069607597823"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_249/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2187,7 +2187,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_309/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_309/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2199,7 +2199,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2212,7 +2212,7 @@
                     "std": "229.48280779654544"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2225,7 +2225,7 @@
                     "std": "180.26515554979585"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2238,7 +2238,7 @@
                     "std": "107.37740548440625"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_309/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2253,7 +2253,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_128/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_128/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2265,7 +2265,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2278,7 +2278,7 @@
                     "std": "607.3420134242401"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2291,7 +2291,7 @@
                     "std": "372.4796387500226"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2304,7 +2304,7 @@
                     "std": "183.01951804908168"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_128/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2319,7 +2319,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_176/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_176/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2331,7 +2331,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2344,7 +2344,7 @@
                     "std": "543.4403256460797"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2357,7 +2357,7 @@
                     "std": "241.62272027488777"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2370,7 +2370,7 @@
                     "std": "118.73109309665676"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_176/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2385,7 +2385,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_120/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_120/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2397,7 +2397,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2410,7 +2410,7 @@
                     "std": "313.23959290303895"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2423,7 +2423,7 @@
                     "std": "172.9948782322822"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2436,7 +2436,7 @@
                     "std": "92.00478880916599"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_120/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2451,7 +2451,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_127/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_127/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2463,7 +2463,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2476,7 +2476,7 @@
                     "std": "813.5249772598249"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2489,7 +2489,7 @@
                     "std": "340.96839009537183"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2502,7 +2502,7 @@
                     "std": "148.46872950592234"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_127/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2517,7 +2517,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_123/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_123/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2529,7 +2529,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2542,7 +2542,7 @@
                     "std": "699.8520309764265"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2555,7 +2555,7 @@
                     "std": "274.1110380852329"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2568,7 +2568,7 @@
                     "std": "137.22947868900383"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_123/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2583,7 +2583,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_326/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_326/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2595,7 +2595,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2608,7 +2608,7 @@
                     "std": "687.9501542402224"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2621,7 +2621,7 @@
                     "std": "293.5026445929229"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2634,7 +2634,7 @@
                     "std": "178.69511957548104"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_326/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2649,7 +2649,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_148/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_148/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2661,7 +2661,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2674,7 +2674,7 @@
                     "std": "238.45443795249992"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2687,7 +2687,7 @@
                     "std": "136.35617729593014"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2700,7 +2700,7 @@
                     "std": "74.06465694681988"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_148/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2715,7 +2715,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_285/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_285/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2727,7 +2727,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2740,7 +2740,7 @@
                     "std": "587.9355935439487"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2753,7 +2753,7 @@
                     "std": "308.6967983935559"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2766,7 +2766,7 @@
                     "std": "183.83446953198748"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_285/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2781,7 +2781,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_033/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_033/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2793,7 +2793,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2806,7 +2806,7 @@
                     "std": "723.351953934863"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2819,7 +2819,7 @@
                     "std": "406.30896248715504"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2832,7 +2832,7 @@
                     "std": "215.76179542575096"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_033/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2847,7 +2847,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_092/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_092/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2859,7 +2859,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2872,7 +2872,7 @@
                     "std": "763.5007056348559"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2885,7 +2885,7 @@
                     "std": "377.14499706020433"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2898,7 +2898,7 @@
                     "std": "144.3093385028669"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_092/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2913,7 +2913,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_054/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_054/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2925,7 +2925,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -2938,7 +2938,7 @@
                     "std": "752.1820599409084"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -2951,7 +2951,7 @@
                     "std": "349.7555494012672"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -2964,7 +2964,7 @@
                     "std": "139.889127104019"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_054/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -2979,7 +2979,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_096/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_096/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -2991,7 +2991,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3004,7 +3004,7 @@
                     "std": "736.0346214446253"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3017,7 +3017,7 @@
                     "std": "229.54803851492017"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3030,7 +3030,7 @@
                     "std": "143.8636828868496"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_096/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3045,7 +3045,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_099/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_099/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3057,7 +3057,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3070,7 +3070,7 @@
                     "std": "807.9569318673496"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3083,7 +3083,7 @@
                     "std": "364.76646681879555"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3096,7 +3096,7 @@
                     "std": "141.88541640177306"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_099/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3111,7 +3111,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_045/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_045/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3123,7 +3123,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3136,7 +3136,7 @@
                     "std": "810.916382545208"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3149,7 +3149,7 @@
                     "std": "430.9586177321379"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3162,7 +3162,7 @@
                     "std": "188.56919555764182"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_045/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3177,7 +3177,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_251/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_251/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3189,7 +3189,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3202,7 +3202,7 @@
                     "std": "738.0033700428173"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3215,7 +3215,7 @@
                     "std": "394.7554795612785"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3228,7 +3228,7 @@
                     "std": "149.00568597871882"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_251/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3243,7 +3243,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_016/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_016/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3255,7 +3255,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3268,7 +3268,7 @@
                     "std": "725.4842325381983"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3281,7 +3281,7 @@
                     "std": "587.156929759451"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3294,7 +3294,7 @@
                     "std": "184.62588894030912"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_016/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3309,7 +3309,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_055/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_055/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3321,7 +3321,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3334,7 +3334,7 @@
                     "std": "770.7411386324376"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3347,7 +3347,7 @@
                     "std": "319.4759244389207"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3360,7 +3360,7 @@
                     "std": "180.14822850598242"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_055/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3375,7 +3375,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_024/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_024/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3387,7 +3387,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3400,7 +3400,7 @@
                     "std": "649.8289326949745"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3413,7 +3413,7 @@
                     "std": "367.1920006622621"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3426,7 +3426,7 @@
                     "std": "178.21263964240796"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_024/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3441,7 +3441,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_089/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_089/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3453,7 +3453,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3466,7 +3466,7 @@
                     "std": "591.6014036532666"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3479,7 +3479,7 @@
                     "std": "344.2982547240884"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3492,7 +3492,7 @@
                     "std": "168.38066882665163"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_089/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3507,7 +3507,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_274/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_274/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3519,7 +3519,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3532,7 +3532,7 @@
                     "std": "454.1677746062212"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3545,7 +3545,7 @@
                     "std": "231.40201692566097"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3558,7 +3558,7 @@
                     "std": "154.29982862220618"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_274/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3573,7 +3573,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_122/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_122/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3585,7 +3585,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3598,7 +3598,7 @@
                     "std": "731.8812105469216"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3611,7 +3611,7 @@
                     "std": "268.20984344104346"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3624,7 +3624,7 @@
                     "std": "175.1813120627377"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_122/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3639,7 +3639,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_011/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_011/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3651,7 +3651,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3664,7 +3664,7 @@
                     "std": "661.9894484293632"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3677,7 +3677,7 @@
                     "std": "422.86100684190285"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3690,7 +3690,7 @@
                     "std": "171.96415303834888"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_011/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3705,7 +3705,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_132/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_132/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3717,7 +3717,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3730,7 +3730,7 @@
                     "std": "625.7848308680786"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3743,7 +3743,7 @@
                     "std": "287.61679167913877"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3756,7 +3756,7 @@
                     "std": "101.43515687992678"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_132/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3771,7 +3771,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_040/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_040/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3783,7 +3783,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3796,7 +3796,7 @@
                     "std": "675.2648146758801"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3809,7 +3809,7 @@
                     "std": "389.6369613251616"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3822,7 +3822,7 @@
                     "std": "204.39431495238418"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_040/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3837,7 +3837,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_095/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_095/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3849,7 +3849,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3862,7 +3862,7 @@
                     "std": "666.2403804901263"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3875,7 +3875,7 @@
                     "std": "264.9074769571823"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3888,7 +3888,7 @@
                     "std": "131.9810296349522"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_095/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3903,7 +3903,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_173/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_173/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3915,7 +3915,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3928,7 +3928,7 @@
                     "std": "633.6737385823466"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -3941,7 +3941,7 @@
                     "std": "308.1822915525701"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -3954,7 +3954,7 @@
                     "std": "124.78965341541388"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_173/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -3969,7 +3969,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_328/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_328/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -3981,7 +3981,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -3994,7 +3994,7 @@
                     "std": "735.5108968987859"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4007,7 +4007,7 @@
                     "std": "407.76952497701967"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4020,7 +4020,7 @@
                     "std": "165.28737482343618"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_328/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4035,7 +4035,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_052/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_052/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4047,7 +4047,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4060,7 +4060,7 @@
                     "std": "644.5452419709308"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4073,7 +4073,7 @@
                     "std": "245.32766959257052"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4086,7 +4086,7 @@
                     "std": "124.00575534560926"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_052/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4101,7 +4101,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_019/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_019/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4113,7 +4113,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4126,7 +4126,7 @@
                     "std": "574.4139855095939"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4139,7 +4139,7 @@
                     "std": "403.62997408922627"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4152,7 +4152,7 @@
                     "std": "150.4948352075397"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_019/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4167,7 +4167,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_126/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_126/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4179,7 +4179,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4192,7 +4192,7 @@
                     "std": "661.4956434340073"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4205,7 +4205,7 @@
                     "std": "296.6516990688728"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4218,7 +4218,7 @@
                     "std": "115.38609365591952"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_126/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4233,7 +4233,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_280/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_280/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4245,7 +4245,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4258,7 +4258,7 @@
                     "std": "817.7952142765358"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4271,7 +4271,7 @@
                     "std": "381.1492835071396"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4284,7 +4284,7 @@
                     "std": "208.01710911042488"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_280/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4299,7 +4299,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_298/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_298/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4311,7 +4311,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4324,7 +4324,7 @@
                     "std": "577.4054306957678"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4337,7 +4337,7 @@
                     "std": "302.8994163583188"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4350,7 +4350,7 @@
                     "std": "170.23698439395224"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_298/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4365,7 +4365,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_230/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_230/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4377,7 +4377,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4390,7 +4390,7 @@
                     "std": "960.2452224303772"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4403,7 +4403,7 @@
                     "std": "226.80156402108815"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4416,7 +4416,7 @@
                     "std": "181.13891099140463"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_230/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4431,7 +4431,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_303/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_303/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4443,7 +4443,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4456,7 +4456,7 @@
                     "std": "671.6479202601507"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4469,7 +4469,7 @@
                     "std": "323.4569506693249"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4482,7 +4482,7 @@
                     "std": "177.05925900686427"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_303/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4497,7 +4497,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_046/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_046/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4509,7 +4509,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4522,7 +4522,7 @@
                     "std": "278.4517770406399"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4535,7 +4535,7 @@
                     "std": "173.3322890478464"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4548,7 +4548,7 @@
                     "std": "81.83529597196174"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_046/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4563,7 +4563,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_238/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_238/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4575,7 +4575,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4588,7 +4588,7 @@
                     "std": "252.536070202346"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4601,7 +4601,7 @@
                     "std": "156.14416966863718"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4614,7 +4614,7 @@
                     "std": "73.80117761716171"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_238/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4629,7 +4629,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_102/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_102/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4641,7 +4641,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4654,7 +4654,7 @@
                     "std": "794.1951853719294"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4667,7 +4667,7 @@
                     "std": "246.97091826820812"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4680,7 +4680,7 @@
                     "std": "177.32803019362558"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_102/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4695,7 +4695,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_287/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_287/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4707,7 +4707,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4720,7 +4720,7 @@
                     "std": "892.9028380376719"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4733,7 +4733,7 @@
                     "std": "253.61732227453697"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4746,7 +4746,7 @@
                     "std": "185.77928812590122"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_287/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4761,7 +4761,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_049/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_049/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4773,7 +4773,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4786,7 +4786,7 @@
                     "std": "287.5748104962079"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4799,7 +4799,7 @@
                     "std": "195.6927940081003"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4812,7 +4812,7 @@
                     "std": "95.7700882758684"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_049/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4827,7 +4827,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_005/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_005/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4839,7 +4839,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4852,7 +4852,7 @@
                     "std": "313.2235551613266"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4865,7 +4865,7 @@
                     "std": "180.40483264287278"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4878,7 +4878,7 @@
                     "std": "90.9445820535333"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_005/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4893,7 +4893,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_314/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_314/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4905,7 +4905,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4918,7 +4918,7 @@
                     "std": "788.6209085186968"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4931,7 +4931,7 @@
                     "std": "278.57016018098034"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -4944,7 +4944,7 @@
                     "std": "156.3090919592993"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_314/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -4959,7 +4959,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_289/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_289/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -4971,7 +4971,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -4984,7 +4984,7 @@
                     "std": "594.4463908597478"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -4997,7 +4997,7 @@
                     "std": "364.3759592601323"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5010,7 +5010,7 @@
                     "std": "166.0085508210244"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_289/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5025,7 +5025,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_163/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_163/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5037,7 +5037,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5050,7 +5050,7 @@
                     "std": "736.4703029357025"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5063,7 +5063,7 @@
                     "std": "325.7142504805951"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5076,7 +5076,7 @@
                     "std": "138.37445250594897"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_163/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5091,7 +5091,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_311/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_311/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5103,7 +5103,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5116,7 +5116,7 @@
                     "std": "750.5507705165669"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5129,7 +5129,7 @@
                     "std": "440.1031470719945"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5142,7 +5142,7 @@
                     "std": "189.6275387437624"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_311/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5157,7 +5157,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_142/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_142/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5169,7 +5169,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5182,7 +5182,7 @@
                     "std": "657.9602170101585"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5195,7 +5195,7 @@
                     "std": "307.3687846613532"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5208,7 +5208,7 @@
                     "std": "142.82054708843017"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_142/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5223,7 +5223,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_296/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_296/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5235,7 +5235,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5248,7 +5248,7 @@
                     "std": "914.6566554910402"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5261,7 +5261,7 @@
                     "std": "268.7293253613979"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5274,7 +5274,7 @@
                     "std": "177.8524786779947"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_296/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5289,7 +5289,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_058/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_058/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5301,7 +5301,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5314,7 +5314,7 @@
                     "std": "829.7697525098187"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5327,7 +5327,7 @@
                     "std": "559.8800181532024"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5340,7 +5340,7 @@
                     "std": "204.78265331409452"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_058/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5355,7 +5355,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_234/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_234/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5367,7 +5367,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5380,7 +5380,7 @@
                     "std": "668.507182509323"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5393,7 +5393,7 @@
                     "std": "259.9168068559653"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5406,7 +5406,7 @@
                     "std": "206.34416022169444"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_234/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5421,7 +5421,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_282/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_282/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5433,7 +5433,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5446,7 +5446,7 @@
                     "std": "751.8634836574973"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5459,7 +5459,7 @@
                     "std": "262.88197217164924"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5472,7 +5472,7 @@
                     "std": "168.55896586690312"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_282/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5487,7 +5487,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_248/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_248/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5499,7 +5499,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5512,7 +5512,7 @@
                     "std": "633.0966693994225"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5525,7 +5525,7 @@
                     "std": "285.66819041133954"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5538,7 +5538,7 @@
                     "std": "115.44131089462525"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_248/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5553,7 +5553,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_184/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_184/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5565,7 +5565,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5578,7 +5578,7 @@
                     "std": "1784.1175857436242"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5591,7 +5591,7 @@
                     "std": "609.3194398154096"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5604,7 +5604,7 @@
                     "std": "379.2263217186234"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_184/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5619,7 +5619,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_068/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_068/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5631,7 +5631,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5644,7 +5644,7 @@
                     "std": "706.3395059122562"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5657,7 +5657,7 @@
                     "std": "283.42619128619106"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5670,7 +5670,7 @@
                     "std": "138.45786912458883"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_068/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5685,7 +5685,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_062/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_062/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5697,7 +5697,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5710,7 +5710,7 @@
                     "std": "724.9018981512558"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5723,7 +5723,7 @@
                     "std": "682.2259047944467"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5736,7 +5736,7 @@
                     "std": "197.33606574458855"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_062/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5751,7 +5751,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_290/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_290/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5763,7 +5763,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5776,7 +5776,7 @@
                     "std": "561.9638411664104"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5789,7 +5789,7 @@
                     "std": "427.82033981495886"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5802,7 +5802,7 @@
                     "std": "160.2448472793942"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_290/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5817,7 +5817,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_323/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_323/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5829,7 +5829,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5842,7 +5842,7 @@
                     "std": "711.6714815833642"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5855,7 +5855,7 @@
                     "std": "472.6858444037724"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5868,7 +5868,7 @@
                     "std": "185.79356617880123"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_323/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5883,7 +5883,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_014/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_014/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5895,7 +5895,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5908,7 +5908,7 @@
                     "std": "683.4995849993164"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5921,7 +5921,7 @@
                     "std": "264.35469022401793"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -5934,7 +5934,7 @@
                     "std": "155.8756636309308"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_014/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -5949,7 +5949,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_146/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_146/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -5961,7 +5961,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -5974,7 +5974,7 @@
                     "std": "581.6905496319888"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -5987,7 +5987,7 @@
                     "std": "189.25410386556504"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -6000,7 +6000,7 @@
                     "std": "103.70007584085427"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_146/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -6015,7 +6015,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_240/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_240/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -6027,7 +6027,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -6040,7 +6040,7 @@
                     "std": "892.2622017070298"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -6053,7 +6053,7 @@
                     "std": "232.31602912741903"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -6066,7 +6066,7 @@
                     "std": "265.9317609500595"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_240/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -6081,7 +6081,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_032/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_032/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -6093,7 +6093,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -6106,7 +6106,7 @@
                     "std": "506.95017517207305"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -6119,7 +6119,7 @@
                     "std": "315.1131292061149"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -6132,7 +6132,7 @@
                     "std": "160.65400319776725"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_032/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -6147,7 +6147,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_227/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_227/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -6159,7 +6159,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -6172,7 +6172,7 @@
                     "std": "230.8481051632704"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -6185,7 +6185,7 @@
                     "std": "163.2748498268847"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -6198,7 +6198,7 @@
                     "std": "67.83273549853494"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_227/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
@@ -6213,7 +6213,7 @@
             ]
         },
         {
-            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_279/seg.nii.gz",
+            "segmentation_path": "/kaggle/input/brainmetshare-3/train/Mets_279/seg.nii",
             "datasetname": "ELITE",
             "dataset_type": "all",
             "shape": [
@@ -6225,7 +6225,7 @@
             "label": null,
             "instances": [
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/bravo.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/bravo.nii",
                     "sequence_type": "BRAVO",
                     "field_strength": null,
                     "contrast": false,
@@ -6238,7 +6238,7 @@
                     "std": "750.3898591282722"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/flair.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/flair.nii",
                     "sequence_type": "FLAIR",
                     "field_strength": null,
                     "contrast": false,
@@ -6251,7 +6251,7 @@
                     "std": "379.9111145987018"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/t1_pre.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/t1_pre.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": false,
@@ -6264,7 +6264,7 @@
                     "std": "191.58719133857954"
                 },
                 {
-                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/t1_gd.nii.gz",
+                    "image_path": "/kaggle/input/brainmetshare-3/train/Mets_279/t1_gd.nii",
                     "sequence_type": "T1",
                     "field_strength": null,
                     "contrast": true,
