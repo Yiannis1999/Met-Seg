@@ -25,9 +25,9 @@ class BaseTrainer:
                  metric_ftns: Union[MultiMetric, Dict[str, callable]],
                  optimizer: torch.optim,
                  config: dict,
-                 entity: str,
-                 project: str,
                  lr_scheduler: torch.optim.lr_scheduler,
+                 entity: Optional[str] = None,
+                 project: Optional[str] = None,
                  seed: int = None,
                  device: str = None,
                  tags: Optional[List[str]] = None,
@@ -53,16 +53,19 @@ class BaseTrainer:
 
         self.config = config
 
-        self.run = wandb.init(
-            config=config,
-            entity=entity,
-            project=project,
-            tags=tags, 
-            save_code=True, 
-            reinit=True, 
-            name=config['name'], 
-            mode="online",
+        if wandb and entity and project:
+            self.run = wandb.init(
+                config=config,
+                entity=entity,
+                project=project,
+                tags=tags, 
+                save_code=True, 
+                reinit=True, 
+                name=config.get('name'), 
+                mode="online",
             )
+        else:
+            self.run = None
         
         self.logger = get_logger(name=__name__)
 

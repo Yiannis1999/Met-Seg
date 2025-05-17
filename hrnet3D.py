@@ -4,29 +4,29 @@ import torch.nn as nn
 
 import numpy as np
 
-from t_seg.dataset.containers import DatasetContainer
-from t_seg.dataset.loaders import VolumeLoader
+from m_seg.dataset.containers import DatasetContainer
+from m_seg.dataset.loaders import VolumeLoader
 
-from t_seg.models import MultiLoss
-from t_seg.models.losses import (
+from m_seg.models import MultiLoss
+from m_seg.models.losses import (
     FocalTverskyLoss,
     WeightedBCEWithLogitsLoss,
     )
 
-from t_seg.metrics import (
+from m_seg.metrics import (
     MultiMetric,
     Accuracy,
     DiceCoefficient
     )
 
-from t_seg.trainer import Trainer
+from m_seg.trainer import Trainer
 
-from t_seg.preprocessing import (
+from m_seg.preprocessing import (
     VolumeInputDropout,
     )
 
-from t_seg.models.HRNet3D.hrnet import HighResolutionNet
-from t_seg.models.HRNet3D.config import hrnet_w18, hrnet_w32, hrnet_w48
+from m_seg.models.HRNet3D.hrnet import HighResolutionNet
+from m_seg.models.HRNet3D.config import hrnet_w18, hrnet_w32, hrnet_w48
 
 from monai.transforms import (
     CropForegroundd,
@@ -50,9 +50,9 @@ warnings.filterwarnings("ignore")
 
 
 # """
-train = DatasetContainer.from_json('./dataset/train_nii.json')
+train = DatasetContainer.from_json('./dataset/train.json')
 train.add_shapes()
-valid = DatasetContainer.from_json('./dataset/valid_nii.json')
+valid = DatasetContainer.from_json('./dataset/valid.json')
 valid.add_shapes()
 # From non-prconverted datasets
 # """
@@ -133,7 +133,7 @@ config = {
     "learning_rate": 5e-3,
     "optimizer": "AdamW",
     "lr_scheduler": "CosineAnnealingLR",
-    "save_dir": "/itf-fi-ml/home/jonakri/Segmentation/HRNet3D_diff_size_focal",
+    "save_dir": "checkpoints",
     "save_period": 100,
     "mixup": False,
     "size": size,
@@ -205,27 +205,32 @@ scheduler2 = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=int(war
 
 lr_scheduler = torch.optim.lr_scheduler.SequentialLR(optimizer, schedulers=[scheduler1, scheduler2], milestones=[warmup_steps])
 
-trainer = Trainer(
-    model=model,
-    loss_function=loss,
-    metric_ftns=metrics,
-    optimizer=optimizer,
-    config=config,
-    data_loader=train_loader,
-    valid_data_loader=valid_loader,
-    lr_scheduler=lr_scheduler,
-    seed=None,
-    # log_step=50,
-    device="cuda:0",
-    mixed_precision=True,
-    tags=["3D"],
-    project="MetSeg",
-    )
+if __name__ == "__main__":
+    # On Windows, this is required for multiprocessing
+    import multiprocessing
+    multiprocessing.freeze_support()
 
-# trainer.resume_checkpoint(
-    # resume_model='/itf-fi-ml/home/jonakri/ELITE/HRNet3D/2022-08-25/best_validation/checkpoint-best.pth',
-    # resume_metric='/itf-fi-ml/home/jonakri/ELITE/HRNet3D/2022-08-25/best_validation/statistics.json',
-    # )
+    trainer = Trainer(
+        model=model,
+        loss_function=loss,
+        metric_ftns=metrics,
+        optimizer=optimizer,
+        config=config,
+        data_loader=train_loader,
+        valid_data_loader=valid_loader,
+        lr_scheduler=lr_scheduler,
+        seed=None,
+        # log_step=50,
+        device="cuda:0",
+        mixed_precision=True,
+        tags=["3D"],
+        project="MetSeg",
+        )
+
+    # trainer.resume_checkpoint(
+        # resume_model='/itf-fi-ml/home/jonakri/ELITE/HRNet3D/2022-08-25/best_validation/checkpoint-best.pth',
+        # resume_metric='/itf-fi-ml/home/jonakri/ELITE/HRNet3D/2022-08-25/best_validation/statistics.json',
+        # )
 
 
-trainer.train()
+    trainer.train()

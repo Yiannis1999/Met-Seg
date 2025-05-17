@@ -27,9 +27,9 @@ class Trainer(BaseTrainer):
                  optimizer: torch.optim,
                  lr_scheduler: torch.optim.lr_scheduler,
                  config: dict,
-                 entity: str,
-                 project: str,
                  data_loader: torch.utils.data.dataloader,
+                 entity: Optional[str] = None,
+                 project: Optional[str] = None,
                  valid_data_loader: torch.utils.data.dataloader = None,
                  seed: int = None,
                  device: str = None,
@@ -66,6 +66,7 @@ class Trainer(BaseTrainer):
                          device=device,
                          project=project,
                          tags=tags,
+                         entity=entity,
                          )
 
         self.data_loader = data_loader

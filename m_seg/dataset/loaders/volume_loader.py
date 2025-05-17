@@ -11,6 +11,7 @@ import numpy as np
 from tqdm import tqdm
 
 from skimage import exposure
+import nibabel as nib
 
 from ..containers import DatasetContainer
 
@@ -79,7 +80,7 @@ class VolumeLoader(torch.utils.data.Dataset):
         name = Path(entry.segmentation_path).parts[-2]
 
         images = np.zeros((self.channels, ) + tuple(entry.shape))
-        gt = np.expand_dims(entry.open().get_fdata(), axis=0)
+        gt = np.expand_dims(nib.load(entry.segmentation_path).get_fdata(), axis=0)
 
         # Order the sequences
         if self.sequence_order is not None:
@@ -96,7 +97,7 @@ class VolumeLoader(torch.utils.data.Dataset):
         z = self.transforms(out)
         # z['mask'][:] = 1.
 
-        return torch.from_numpy(z['image']), torch.from_numpy(z['mask'])
+        return torch.as_tensor(z['image']), torch.as_tensor(z['mask'])
 
     def __iter__(self):
         self.current_index = 0
