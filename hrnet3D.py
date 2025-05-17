@@ -50,9 +50,9 @@ warnings.filterwarnings("ignore")
 
 
 # """
-train = DatasetContainer.from_json('./dataset/train.json')
+train = DatasetContainer.from_json('Met-Seg/dataset/train.json')
 train.add_shapes()
-valid = DatasetContainer.from_json('./dataset/valid.json')
+valid = DatasetContainer.from_json('Met-Seg/dataset/valid.json')
 valid.add_shapes()
 # From non-prconverted datasets
 # """
