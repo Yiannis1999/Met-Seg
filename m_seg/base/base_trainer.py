@@ -162,6 +162,10 @@ class BaseTrainer:
                 self.min_validation_loss = val_loss
                 self.save_checkpoint(epoch, best=True)
 
+            # clear GPU cache after finishing the epoch
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+
             self.logger.info('-----------------------------------')
         self.save_checkpoint(epoch, best=False)
 

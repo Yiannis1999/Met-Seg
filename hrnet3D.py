@@ -138,6 +138,7 @@ config = {
     "mixup": False,
     "size": size,
     "smooth": 1e-5,
+    "accumulation_steps": 8,
 }
 
 
