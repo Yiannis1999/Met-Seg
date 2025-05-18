@@ -153,7 +153,8 @@ class BaseTrainer:
                 "epoch": epoch,
                 "learning_rate": current_lr,
                 }
-            wandb.log(loss_val_dict, commit=True)
+            if self.run is not None:
+                wandb.log(loss_val_dict, commit=True)
             val_loss = val_dict["val_loss"]
 
             if epoch % self.save_period == 0:
