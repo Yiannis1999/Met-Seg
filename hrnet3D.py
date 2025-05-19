@@ -125,7 +125,7 @@ loss = MultiLoss(losses=loss)
 
 config = {
     "name": "hrnet3d_tversky",
-    "epochs": 1,
+    "epochs": 100,
     "iterative": False,
     "images_pr_iteration": 1,
     "val_images_pr_iteration": 1,
@@ -134,7 +134,7 @@ config = {
     "optimizer": "AdamW",
     "lr_scheduler": "CosineAnnealingLR",
     "save_dir": "Met-Seg/checkpoints",
-    "save_period": 1,
+    "save_period": 100,
     "mixup": False,
     "size": size,
     "smooth": 1e-5,
