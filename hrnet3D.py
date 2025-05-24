@@ -130,7 +130,7 @@ config = {
     "images_pr_iteration": 1,
     "val_images_pr_iteration": 1,
     "batch_size": 1,
-    "learning_rate": 5e-3,
+    "learning_rate": 1e-2,
     "optimizer": "AdamW",
     "lr_scheduler": "CosineAnnealingLR",
     "save_dir": "Met-Seg/checkpoints",
