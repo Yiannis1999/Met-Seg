@@ -72,6 +72,8 @@ class Trainer(BaseTrainer):
         self.data_loader = data_loader
         self.valid_data_loader = valid_data_loader
 
+        self.accumulation_steps = config.get('accumulation_steps', 1)
+
         self.mixed_precision = mixed_precision
 
         if mixed_precision:
@@ -97,22 +99,28 @@ class Trainer(BaseTrainer):
         for batch_idx, (data, target) in enumerate(self.data_loader):
             data, target = data.to(self.device), target.to(self.device)
 
-            self.optimizer.zero_grad()
+            # forward + backward
+            if batch_idx % self.accumulation_steps == 0:
+                # only zero at start of accumulation block
+                self.optimizer.zero_grad()
 
             if self.mixed_precision:
                 with torch.cuda.amp.autocast():
                     out = self.model(data)
-                    loss = self._loss(out, target)
-
+                    loss = self._loss(out, target) / self.accumulation_steps
                 self.scaler.scale(loss).backward()
-                self.scaler.step(self.optimizer)
-                self.scaler.update()
             else:
                 out = self.model(data)
-                loss = self._loss(out, target)
-
+                loss = self._loss(out, target) / self.accumulation_steps
                 loss.backward()
-                self.optimizer.step()
+
+            # step and update scaler once per accumulation block
+            if (batch_idx + 1) % self.accumulation_steps == 0:
+                if self.mixed_precision:
+                    self.scaler.step(self.optimizer)
+                    self.scaler.update()
+                else:
+                    self.optimizer.step()
 
             loss = loss.item()  # Detach loss from comp graph and moves it to the cpu
             losses['loss'].append(loss)

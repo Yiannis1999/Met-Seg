@@ -14,6 +14,7 @@ from copy import deepcopy
 import torch
 import torch.nn as nn
 import torch._utils
+from torch.utils.checkpoint import checkpoint
 import torch.nn.functional as F
 
 import numpy as np
@@ -585,7 +586,7 @@ class HighResolutionNet(nn.Module):
         x = [x]
 
         for i in range(len(self.stages) - 1):
-            x = self.stages[i](x)
+            x = checkpoint(self.stages[i], x)
 
             if self.deep_supervision:
                 auxiliary.append(self.deep_supervision_layers[i](x[0]))
@@ -598,7 +599,7 @@ class HighResolutionNet(nn.Module):
                     transitioned.append(transition(x[-1]))
             x = transitioned
 
-        x = self.stages[-1](x)
+        x = checkpoint(self.stages[-1], x)
 
         x = self.decoder(x)
 

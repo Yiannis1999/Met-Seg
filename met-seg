@@ -34,52 +34,6 @@ from m_seg.dataset.containers import DatasetContainer
 if __name__ == "__main__":
     print("\n########################")
     print("Metastases Segmentation")
-    print("""
-.......'ol'''.';xx:,,,lo:o0x:;codkddOOkOxl:cxXXxlo0Oc::ckKOxo::ldxk0KKXXXK0d:oO
-........ld:,,'';dkl,,;cocoOkololoxdd0OkkdlookXKdcoxo:codOK0xc'.'',;:cdxkkxxoclx
-........co'....'ox:...;:':Okc;c:cxooOkdd:...lK0c.',,';llx0c'........,clooooooll
-........;occclloxkdollol;ck0OkxxxkkOK0OOkddxkK0o,.,;,;dxOXk,.......,clldddddddd
-...........';ldxxkxddl:,,ckkkkxxkkkO00OOOOOkkOd,.';::okk0Kl.......';ooodxxxxddd
-........     ..,cxkxxxxxxkOkoc;:::ckkoloolooo:..,,,;:oxkk:........,cdoodxxxxxxx
-........       ..':::cccoOOxo:;;;,:xl'....... .'''',cx0k:........';lddodxxxxxxx
-.........   ..........'':xd:;;;;,',,...'''. ...''',,:dOl.........,codddxxxxxxxx
-.......''. .   .........','............',,....''....'cc,........';lddddxxxxxxxx
-.......,l'     ............ ......'...',;;'..........''..  .....,:odxddxxxxxxxx
-'''....,o;              .... .....,'..'',;,''...................,coddddxxxxxxxk
-''''''.,ol.                .   ..........','...''..'...'........;ldddddxxxxxxxk
-,,,,''';dx:.           ..        ....... .........''''''''......:odxxddxxxxxxxk
-;,,,,,';dkc.                                ..''''.'','',;,.....:odddddxxxxxxxx
-;;;;,,,,;;.                               .cc;cxxc.....';::,....:odddodxxxxxxxx
-;,,'''''...            .          ........dKo.'OKc.......,;;,...;oodooxxxxxxxxx
-'''........          .;. ...       ..'''';xKKdoxl..........';;'.,looldxxxxxxxxx
-''.........          ;l' .,,.      ..';;,,;:cc:...  ........',;;;colldxxxxxxxxx
-'''''''''..          .,;,''.        ........      ...........';;;cllldddddddddd
-''''''',;,.            ...             ....     .............',;::clooddddddddd
-,,,,,;:ll,                           ..''.........''''.......'',:cccoooddddoodo
-clllloxd:.                           ...........,:cc:;,,''''',;;:c:clloooooollc
-kO000Okl.                          ....'.......,:llc:;,,,,;;;;::::;:::cccccc::;
-kO000Okl.                .        .cl,,,......'coooc;,,',,,,;;:c:;;;;,;;;;;,'''
-xkkkkkd;.            ......      .'lddllccclodxkkoccc::;;:;,,,,;;;::;'..',,,,'.
-kxocloc..         ...............,lxOO0KXNNWWWKdll:;',;:clcc:;;,,,,,;,,''',:lod
-dol:ll;'...    ...... .....,cooodxk0KXXXNWWWNXOl,'.,;;;::cllcc:;,''''...',,,,:c
-l:;::;;;'.........  ......,cdkO00KKXXXXNNWNNXKkc,,,;codddol::::;;;;,,'....'''''
-;'.,,;;;,,;;,.... .....',:ok0KXXXXXXXXXXXNNNXXKOxxO0000Okoc:,,;;;;::;,'....''''
-'...'''',:c:'.....,'.'lxO0KXXXXXKKXKXXXXXXXXXXNXXXNNWWXOxo:;;,'',;::;;;'....'''
-,,,''..';lxd:'..':;,:oOXXXXXXXXXKKXXKXXXXXXXXXNNNNNWWWNKx:,'.','',;:::;;,'..'''
-:::c:;;::loc;'.';;:cdkOKXXXKKKXKKXXXXXXXXXXXXXNNNKOOKKK0kl,......',,;::;,'...',
-ccclllolllccc:;,.';cokO00KKKKKKXXXKKXXXNNNNXXXXNNKxcccclc;'.......',,;;;,'....'
-llloooolllcllc;...;codxO0KKKKKKXXXXKXXXXNNNNNXXXXXOo:..........'''',,;;;;,.....
-lllollllcccccc,..,,;coxO0KKKKKXXXXXXXXXXNNWWNXK0Okkxl,.........',,,,;;:;;,'....
-::::::c::c::c;'.''';coxOK00KKKXXXXKKXXXNNWWWXKOkdlc::,.......'''';,,;;:::;;'...
-''',,;:;;::cc,'.'.';coxO00000KXXXK0KXXNNNNWNX0Oxo:'..........''''',,;;:cc:;,...
-.......''',:;'....,:coxkOOOkOKK00KKXXXXXXXNXKOkxl'...........''',',;;;::c::;'..
-...........'......;cccodxxdxOOxxO0KXXXKOO0K0OOOd;........''..'',,,,;;::::::;,..
-.................',;;:llc:codooxO0KXXKklldOkkkxo;.........''.'',,,,,;::::::;;,'
- ........... .....'',;,'',;:cloxO0KKKkc,,cxxdooo:..........''',;;;;;;:::c::;;;;
-   .....     ......'.......,:ldxkO00Oo;'';odll:::'.........,,',;::;:;;:cc:;;,,,
-      .      ..............',cxkxkkko:,,,,:ccc;,;'.........;;,',;;;;:::clc:,,,,
-""")
-    print("########################\n")
 
     import argparse
     parser = argparse.ArgumentParser()

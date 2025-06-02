@@ -153,7 +153,8 @@ class BaseTrainer:
                 "epoch": epoch,
                 "learning_rate": current_lr,
                 }
-            wandb.log(loss_val_dict, commit=True)
+            if self.run is not None:
+                wandb.log(loss_val_dict, commit=True)
             val_loss = val_dict["val_loss"]
 
             if epoch % self.save_period == 0:
@@ -161,6 +162,10 @@ class BaseTrainer:
             if val_loss < self.min_validation_loss:
                 self.min_validation_loss = val_loss
                 self.save_checkpoint(epoch, best=True)
+
+            # clear GPU cache after finishing the epoch
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
 
             self.logger.info('-----------------------------------')
         self.save_checkpoint(epoch, best=False)
